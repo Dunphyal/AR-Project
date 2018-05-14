@@ -1,2 +1,2 @@
 # AR-Project
-Compressed folder of an AR based game made as part of college
+AR based game designed as part of a college module.
